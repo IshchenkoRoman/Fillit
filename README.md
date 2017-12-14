@@ -28,6 +28,7 @@ The description of a Tetriminos must respect the following rules :
 .... .#.. ....  #.  .... .... #### ,,,,  ....
 .... #... ....      .... ##.. #### ,,,,  ....
 ```
+## How describe the Tetriminos
   Because each Tetrimino fills only 4 of the 16 available boxes, it is possible to describe
 the same Tetrimino in multiple ways. However, a rotated Tetrimino describes a different
 Tetrimino from the original, in the case of this project. This means no rotation is possible
