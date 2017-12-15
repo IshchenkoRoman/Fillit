@@ -77,6 +77,8 @@ $>
 ## How to run
 
 ```
+git clone https://github.com/IshchenkoRoman/Fillit
+cd Fillit
 make
 ./fillit fileWithData
 ```
